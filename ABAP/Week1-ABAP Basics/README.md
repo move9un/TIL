@@ -4,7 +4,6 @@
 - [2025-09-26 Hello ABAP](./2025-09-26%20Hello%20ABAP.md)
 - [2025-09-27 SELECT + LOOP](./2025-09-27%20SELECT%20+%20LOOP.md)
 
-(추가 예정…)
 
 ---
 
