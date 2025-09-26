@@ -17,7 +17,7 @@ openSUSE 환경에 직접 **SAP ABAP 서버(Developer Edition)**를 설치하여
 ## 📖 진행 현황
 
 ### ✅ Week 1 – ABAP Basics
-- [Week 1](./ABAP/Week1-ABAP%20Basics/README.md)
+- [Week 1](./Week1-ABAP%20Basics/README.md)
 
 ---
 ## 🚀 포트폴리오 목표
